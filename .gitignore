@@ -1,3 +1,15 @@
+# Terraform
+**/.terraform/
+.terraform.lock.hcl
+terraform/airbyte/variables.tf
+
+# dbt
+dbt_project/.user.yml
+dbt_project/logs
+
+# GCP
+credentials.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

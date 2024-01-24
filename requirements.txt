@@ -1,0 +1,6 @@
+dbt-core
+dbt-bigquery
+dagster
+dagster-webserver
+dagster-dbt
+dagster-airbyte

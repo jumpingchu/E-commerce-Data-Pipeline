@@ -1,6 +1,10 @@
 # E-commerce-Data-Pipeline
 
-A project followed by Airbyte tutorial.
+![flow chart](image/flow_chart.png)
+
+This is my project followed by Airbyte tutorial: "Building a seamless and efficient data pipeline for e-commerce analytics". 
+
+The tutorial dived into the practical implementation of a data workflow using **Airbyte** for data integration, **dbt** for transformation, **Dagster** for orchestration, and **BigQuery** for data warehousing.
 
 ## Tech Stack
 - **Python**
